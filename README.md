@@ -13,6 +13,7 @@
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Pappu100code&left_color=blue&right_color=red" alt="visitor badge"/>
 </p>
+
 <!---
 Pappu100code/Pappu100code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
