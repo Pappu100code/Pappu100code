@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📢 LOL
 
-<p>
-<p align='center'>
-<a style="text-decoration: none;" href="https://youtube.com/c/sh3ee">
-  <img align="center" width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&theme=gotham&show_icons=true&bg_color=0D1117&hide_border=true"/>
-</a>
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Pappu100code&left_color=blue&right_color=red" alt="visitor badge"/>
@@ -61,10 +56,10 @@ You can click the Preview link to take a look at your changes.
 
 **Fancy stats**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://youtube.com/c/sh3ee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&show_icons=true&count_private=true&theme=midnight-purple" />
 </a><br/><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://youtube.com/c/sh3ee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappu100code&layout=compact&theme=midnight-purple" />
 </a>  
 <br/><br/>
