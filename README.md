@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Pappu100code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📢 LOL
+**Hi, Pappu here 👋**  
 
+- 🧪 I've developed some other side projects *(see below)*
+<br><br>
 
 
 
