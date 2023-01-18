@@ -58,19 +58,13 @@ You can click the Preview link to take a look at your changes.
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
 <br/><br/>
   
-**Astro project**  
-- [Invite Astro in your Discord server](https://astro-bot.space/invite)
-- [Website](https://astro-bot.space)
-- [Support Server](https://astro-bot.space/support)
-- [top.gg page](https://astro-bot.space/topgg)
-<br/><br/>
 
 **Fancy stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuliopime&show_icons=true&count_private=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&show_icons=true&count_private=true&theme=midnight-purple" />
 </a><br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliopime&layout=compact&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappu100code&layout=compact&theme=midnight-purple" />
 </a>  
 <br/><br/>
