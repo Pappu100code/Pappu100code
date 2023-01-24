@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&show_icons=true&count_private=true&theme=midnight-purple" />
 </a><br/><br/>
 <a href="https://youtube.com/c/sh3ee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappu100code&layout=compact&theme=midnight-purple" />
+  <img align="center" src="" />
 </a>  
 <br/><br/>
 <p align='center'>
