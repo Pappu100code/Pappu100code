@@ -3,7 +3,8 @@
 - 🧪 I've developed some other side projects *(see below)*
 <br><br>
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pappu100code" alt="Pappu100code" /></a> </p>
+</center>
 
 <!---
 Pappu100code/Pappu100code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
