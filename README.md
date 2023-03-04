@@ -1,4 +1,4 @@
-**Hi, Pappu here 👋**  
+**Hey There, I'm Pappu!**  
 
 - 🧪 I've developed some other side projects *(see below)*
 <br><br>
@@ -50,17 +50,16 @@ You can click the Preview link to take a look at your changes.
 
 **Fancy stats**
 
-<a href="https://youtube.com/c/sh3ee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&show_icons=true&count_private=true&theme=midnight-purple" />
-</a><br/><br/>
-<a href="https://www.pappu100.online/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappu100code&layout=compact&theme=midnight-purple" />
-</a>  
-<br/><br/>
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Pappu100code&left_color=blue&right_color=red" alt="visitor badge"/>
-</p>
 
-
+<div class="container" >
+  <br/>
+  <a href="https://youtube.com/c/sh3ee">
+    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
+  </a>
+  <a>
+    <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappu100code&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
+  </a>
+  
+</div>
 
 **Thank You**
