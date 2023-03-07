@@ -13,29 +13,19 @@ You can click the Preview link to take a look at your changes.
   **What I feel comfortable using:**  
   
 *Frontend*  
-![markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown) 
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3) 
-![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss) 
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
-![vuedotjs](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vuedotjs) 
-![nuxtdotjs](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxtdotjs) 
+![markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown) 
 
 *Backend*  
 ![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs) 
 ![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java) 
-![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin) 
-![gradle](https://img.shields.io/badge/gradle-black?style=flat-square&logo=gradle) 
-![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis) 
-![influxdb](https://img.shields.io/badge/influxdb-black?style=flat-square&logo=influxdb) 
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) 
-![openapi](https://img.shields.io/badge/openapi-black?style=flat-square&logo=openapiinitiative) 
 
 *Deployment*  
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
-![ubuntu](https://img.shields.io/badge/ubuntu-black?style=flat-square&logo=ubuntu) 
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
-![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx) 
 ![googlecloud](https://img.shields.io/badge/google_cloud_platform-black?style=flat-square&logo=googlecloud) 
 
 *Tools*  
