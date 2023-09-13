@@ -2,10 +2,6 @@
 
 - 🧪 I've developed some other side projects *(see below)*
 <br><br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pappu100code" alt="Pappu100code" /></a> </p>
-</center>
-
 <!---
 Pappu100code/Pappu100code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -37,19 +33,5 @@ You can click the Preview link to take a look at your changes.
 ![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia) 
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
 <br/><br/>
-
-**Fancy stats**
-
-
-<div class="container" >
-  <br/>
-  <a href="https://youtube.com/c/sh3ee">
-    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Pappu100code&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
-  </a>
-  <a>
-    <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappu100code&count_private=true&card_width=495&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a" />
-  </a>
-  
-</div>
 
 **Thank You**
