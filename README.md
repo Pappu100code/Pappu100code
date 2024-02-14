@@ -18,7 +18,7 @@
 	
 </p>
 <div align="center">
-<img width="30%" src="https://cdn.discordapp.com/attachments/781483089264115712/1135700574071955556/5753260072e8405354d7fb6bec5fb48b.gif"><br>
+<img width="60%" src="https://cdn.discordapp.com/attachments/1169547801118646273/1207275566445629480/Group_2.png?ex=65df0dfd&is=65cc98fd&hm=2ccd741fc4317840d969021ce1fa3c6ee6c84c77f51e5d0b0f3f82df239768e0&"><br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
